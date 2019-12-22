@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Pornhub
+Exec=webapp-container --app-id="pornhubapp.turrbor" --webappUrlPatterns=https?://pornhub.com/*,https?://*.pornhub.com/* --store-session-cookies --enable-media-hub-audio https://pornhub.com
+Icon=assets/icon.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+X-Ubuntu-Splash-Color=#000000
